@@ -1,0 +1,7 @@
+# Remove unwanted videos
+res/video/*
+!res/video/main.mp4
+
+# Remove unwanted files
+port2.html
+inspirations.txt
